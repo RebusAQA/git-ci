@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "main" ],
+  "name" : "Branch"
+}, {
+  "values" : [ "3f43747831072e23616def7f1a199f4ca231f39b" ],
+  "name" : "Commit"
+}, {
+  "values" : [ "chrome" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "aqa-stage" ],
+  "name" : "Environment"
+} ]
