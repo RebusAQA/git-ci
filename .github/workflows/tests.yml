@@ -61,7 +61,7 @@ jobs:
         env:
           STAGE: ${{ secrets.STAGE }}
           MARKER: ${{ inputs.MARKER }}
-          TREADS: ${{ inputs.TREADS }}
+          THREADS: ${{ inputs.THREADS }}
         run: docker compose up tests
 
       - name: Copy Allure history
