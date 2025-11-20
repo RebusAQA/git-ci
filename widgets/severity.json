@@ -1,20 +1,10 @@
 [ {
-  "uid" : "9aa98d84220e0e7f",
+  "uid" : "5b1905de3f65363a",
   "name" : "Test Example",
   "time" : {
-    "start" : 1763635567448,
-    "stop" : 1763635568482,
-    "duration" : 1034
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ee00436eb79ef5f9",
-  "name" : "Test Example 2",
-  "time" : {
-    "start" : 1763635568899,
-    "stop" : 1763635569910,
-    "duration" : 1011
+    "start" : 1763636092715,
+    "stop" : 1763636093846,
+    "duration" : 1131
   },
   "status" : "passed",
   "severity" : "normal"
