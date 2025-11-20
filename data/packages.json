@@ -4,13 +4,26 @@
     "name" : "tests.test_example",
     "children" : [ {
       "name" : "Test Example",
-      "uid" : "389526cb2fac06ad",
+      "uid" : "9aa98d84220e0e7f",
       "parentUid" : "d41b485e6ae74c08f28d57b63af1a517",
       "status" : "passed",
       "time" : {
-        "start" : 1763635379645,
-        "stop" : 1763635380811,
-        "duration" : 1166
+        "start" : 1763635567448,
+        "stop" : 1763635568482,
+        "duration" : 1034
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test Example 2",
+      "uid" : "ee00436eb79ef5f9",
+      "parentUid" : "d41b485e6ae74c08f28d57b63af1a517",
+      "status" : "passed",
+      "time" : {
+        "start" : 1763635568899,
+        "stop" : 1763635569910,
+        "duration" : 1011
       },
       "flaky" : false,
       "newFailed" : false,
