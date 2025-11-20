@@ -5,14 +5,14 @@
     "children" : [ {
       "name" : "Feature",
       "children" : [ {
-        "name" : "Test Example",
-        "uid" : "5b1905de3f65363a",
+        "name" : "Test Example 2",
+        "uid" : "26805b9a169c1308",
         "parentUid" : "90cab89c41dd1a9e23b16bb11e2aa584",
         "status" : "passed",
         "time" : {
-          "start" : 1763636092715,
-          "stop" : 1763636093846,
-          "duration" : 1131
+          "start" : 1763636323658,
+          "stop" : 1763636326026,
+          "duration" : 2368
         },
         "flaky" : false,
         "newFailed" : false,
