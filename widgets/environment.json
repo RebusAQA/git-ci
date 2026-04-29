@@ -8,6 +8,6 @@
   "values" : [ "chrome" ],
   "name" : "Browser"
 }, {
-  "values" : [ "release" ],
+  "values" : [ "aqa-stage" ],
   "name" : "Environment"
 } ]
